@@ -11,3 +11,6 @@ This project was created and maintained by the [National Security Agency][nsa].
 [nsa]: https://www.nsa.gov
 [wiki-enigma]: https://en.wikipedia.org/wiki/Enigma_machine
 [wiki-ww2]: https://en.wikipedia.org/wiki/World_War_II
+
+added file: runforpickle.py
+generates chains.pickle
